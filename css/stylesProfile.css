@@ -2,6 +2,8 @@ body {
     background-image: url(../img/Background.png);
     text-align: center;
     margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
 }
 
 .profile {
@@ -13,5 +15,9 @@ body {
 }
 
 h1 {
-    color: white;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
