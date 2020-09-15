@@ -1,3 +1,10 @@
 body {
     background-image: url(../img/Background.png);
+    text-align: center;
+    margin-top: 5%;
+}
+
+.profile {
+    width: 20%;
+    height: 20%;
 }
