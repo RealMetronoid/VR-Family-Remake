@@ -2,9 +2,15 @@
     text-align: center;
     margin: 10px 10px;
 }
+div {
+    display: inline-block;
+    padding: 10px;
+}
+
 .gallery img {
     transition: 1s;
-    padding: 15px;
+    border: solid white;
+    border-radius: 5%;
     width: 200px;
     filter: grayscale(65%);
 }
