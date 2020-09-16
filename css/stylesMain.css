@@ -8,11 +8,11 @@ div {
 }
 
 .gallery img {
-    transition: 1s;
+    transition: .7s;
     border: solid white;
     border-radius: 5%;
     width: 200px;
-    filter: grayscale(65%);
+    filter: grayscale(90%);
 }
 
 .gallery img:hover {
