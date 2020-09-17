@@ -1,9 +1,22 @@
 body {
     background-image: url(../img/Background.png);
     text-align: center;
-    margin-top: 5%;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+}
+
+.topnav {
+    background-color: grey;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: initial;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
 .profile {
