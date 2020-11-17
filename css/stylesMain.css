@@ -22,3 +22,10 @@ div {
 body {
     background-image: url(../img/Background.png);
 }
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
